@@ -1,1 +1,1 @@
-# DDX3X_structural_analysis
+# DDX3X structural analysis
